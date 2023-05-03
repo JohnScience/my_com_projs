@@ -181,10 +181,12 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 
 ---
 
-At point, sufficiently well in advance, I started readying for the exams and putting extra time into competitive programming prep. There were exceptions when my friends-programmers were in need of help but they were scarce.
+At this point,  I started readying for the ЕГЭ (Unified State Exams, similar to [gaokao](https://en.wikipedia.org/wiki/Gaokao) or [A-Levels](https://en.wikipedia.org/wiki/A-Level)) and putting extra time into competitive programming preparations. After that, by the summer of 2017, I graduated from 
+[Perm School of Profound Study of Physics, Mathematics and Informatics No. 146](https://s146.ru/about) and moved to Calgary, Canada for the time of evaluation of my education documents. The reason why it was necessary is that the schoold I attended was a [GAT (aifted-and-talented) eduction institution](https://en.wikipedia.org/wiki/Gifted_education), which comes not only with perks but also with challenges, such as evaluation. For example, we had Linear Algebra in our curriculum, which is a university-level subject in many countries, including Russia and Canada. These legal details delayed the evaluation of my documents and, consequently, my enrollment into a university. So I was left with a choice either to have a [sabbatical](https://en.wikipedia.org/wiki/Gap_year) or to study in a secondary school again. I did the latter.
 
-For example, in 2019 my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) was running low on time to meet the deadline so he requested my assistance, which I agreed to provide.
+In the summer 2019 my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) was running low on time to meet the deadline so he requested my assistance, which I agreed to provide.
 
 * An android app for a water delivery company in the city of Perm. Fellow-contractor: Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ).
 
 ![Screenshot](https://sun9-25.userapi.com/impf/c850124/v850124158/181867/2BVEKOWcNcs.jpg?size=496x743&quality=96&sign=1ba8d2f751acfc1cf767359fa3fbe16a&type=album)
+
