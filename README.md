@@ -12,13 +12,23 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 
 *[The post](https://vk.com/wall82826648_1150) reads ["For feedback"](https://translate.google.com/?sl=ru&tl=en&text=%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%BE%D0%B2%20%D0%BE%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5&op=translate&hl=en)*
 
-* Script that puts the [hovered](https://www.merriam-webster.com/dictionary/hover) player on the wanted list, notifies everyone in the police department about that, and informs the staff about the location of the crime scene. Client: [Захар Алексеевич](https://vk.com/qw2143).
+* Script that puts the [hovered](https://www.merriam-webster.com/dictionary/hover) player on the wanted list, notifies everyone in the police department about that, and informs the staff about the location of the crime scene. Initial client: [Захар Алексеевич](https://vk.com/qw2143). Consequent client: [Руслан Завгородний](https://vk.com/zavgorus2k).
+
+[**Захар Алексеевич**](https://vk.com/qw2143):
 
 > "[The author] completed the task in a short time, excellent work. [I] recommend.".
 > 
 > Original: ["Сделал то, что требуется в короткие сроки, работа отличная. Советую обращаться."](https://vk.com/deemakid?w=wall82826648_1150_r1152).
 >
 > Google Translate's take: ["He did what was required in a short time, the work is excellent. I advise you to apply."](https://translate.google.com/?sl=ru&tl=en&text=%D0%A1%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB%20%D1%82%D0%BE%2C%20%D1%87%D1%82%D0%BE%20%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F%20%D0%B2%20%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B5%20%D1%81%D1%80%D0%BE%D0%BA%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%8F.%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%83%D1%8E%20%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B0%D1%82%D1%8C%D1%81%D1%8F.&op=translate&hl=en).
+
+[**Руслан Завгородний**](https://vk.com/zavgorus2k)
+
+> [The author is] a man who is professional in the field of programming. His profound foundational knowledge and extensive experience allow him to develop a wide variety of different scripts which amaze the audience.
+>
+> Original: ["Человек, который является профессионалом в сфере программирования. Огромная база знаний и богатый опыт позволяют ему создавать разноплановые скрипты, которые удивляют аудиторию."](https://vk.com/wall82826648_1150?reply=1167).
+>
+> Google Translate's take: ["A person who is a professional in the field of programming. A huge knowledge base and rich experience allow him to create diverse scripts that surprise the audience."](https://translate.google.com/?sl=ru&tl=en&text=%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BE%D0%BC%20%D0%B2%20%D1%81%D1%84%D0%B5%D1%80%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.%20%D0%9E%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D0%B9%20%D0%BE%D0%BF%D1%8B%D1%82%20%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D1%8F%D1%8E%D1%82%20%D0%B5%D0%BC%D1%83%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D1%83%D0%B4%D0%B8%D0%B2%D0%BB%D1%8F%D1%8E%D1%82%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8E.%0A&op=translate&hl=en).
 
 * Secure Admin Log-in software package for Wave RP (written before the post). Clients: [Дмитрий Кот](https://vk.com/kowka228) and [Эдик Каримов](https://vk.com/id65484465). This solution consists of several components:
   - Admin ID Generator. The one-time executable that obtained the serial number of the hard drive, and requested the server to finalize giving the admin rights to the account on the active SAMP launcher. In the process, it also assigned the admin a unique ID, hence the name. It also had a simplistic GUI that displayed such information as IP, encrypted serial number of the hard-drive, and the nickname of the active SAMP account. Upon competion, the application displayed a congratulatory window and overwrote the clipboard with the new admin ID, which the new administrator was supposed to keep secret. Since the access to the Admin ID Generator was supposed to be provided via one-time link and only over a screen-sharing session on Skype and the application was fairly useless for anyone without the pre-authorization, the Admin ID Generator never received its own builder.
