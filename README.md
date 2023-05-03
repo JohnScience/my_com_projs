@@ -12,6 +12,16 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 
 *[The post](https://vk.com/wall82826648_1150) reads ["For feedback"](https://translate.google.com/?sl=ru&tl=en&text=%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%BE%D0%B2%20%D0%BE%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5&op=translate&hl=en)*
 
+* Script for facilitation of admin tasks. Clients: [Максим Ивченко](https://vk.com/ivchencko1998), [Эдик Каримов](https://vk.com/id65484465).
+
+[**Максим Ивченко**](https://vk.com/ivchencko1998):
+
+> [I] agree with other commentators. The guy writes great scripts and what's the most important is that he doesn't get mad when asked for assistance.
+> 
+> Original: ["Согласен с остальными комментаторами. Чел пишет отличные скрипты и что главное, не бомбит если просишь помощи."](https://vk.com/wall82826648_1150?reply=1168).
+> 
+> Google Translate's take: ["Agree with other commentators. Chel writes excellent scripts and, most importantly, does not bomb if you ask for help."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B5%D0%BD%20%D1%81%20%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC%D0%B8.%20%D0%A7%D0%B5%D0%BB%20%D0%BF%D0%B8%D1%88%D0%B5%D1%82%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B%20%D0%B8%20%D1%87%D1%82%D0%BE%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%2C%20%D0%BD%D0%B5%20%D0%B1%D0%BE%D0%BC%D0%B1%D0%B8%D1%82%20%D0%B5%D1%81%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%88%D1%8C%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8.&op=translate).
+
 * Script that puts the [hovered](https://www.merriam-webster.com/dictionary/hover) player on the wanted list, notifies everyone in the police department about that, and informs the staff about the location of the crime scene. Initial client: [Захар Алексеевич](https://vk.com/qw2143). Consequent client: [Руслан Завгородний](https://vk.com/zavgorus2k).
 
 [**Захар Алексеевич**](https://vk.com/qw2143):
@@ -51,7 +61,7 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 >
 > Google Translate's take: ["Helped with Google Authenticator Web API in a short time. I'm very grateful, thanks."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D1%81%20Web%20API%20Google%20Authenticator%20%D0%B7%D0%B0%20%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F.%20I%27m%20very%20blagodaren%2C%20thanks.&op=translate).
 
-* In-game SAMP-server-independent clan chat Science Chat with moderation capabilites. SaaS clients (each representing 20+-member clan or "family" in the SAMP parlance): [Ванёк Менякин](https://vk.com/vanek185), [Ярослав Тютин](https://vk.com/one.hardy), [Иван Попов](https://vk.com/id157455936), [Игорь Уткин](https://vk.com/igorau), [Кирилл Ткач](https://vk.com/kirillxtkach).
+* In-game SAMP-server-independent clan chat Science Chat with moderation capabilites. SaaS clients (each representing 20+-member clan or "family" in the SAMP parlance): [Ванёк Менякин](https://vk.com/vanek185), [Ярослав Тютин](https://vk.com/one.hardy), [Иван Попов](https://vk.com/id157455936), [Игорь Уткин](https://vk.com/igorau), [Кирилл Ткач](https://vk.com/kirillxtkach), [Александр Громов](https://vk.com/wall82826648_1150?reply=1198).
 
 ![Science Chat 1 0 Beta 1-31 screenshot](https://user-images.githubusercontent.com/16991108/235563972-fc2acf9e-e081-4485-ba65-3bba55fab4da.png)
 
@@ -143,10 +153,28 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 > 
 > Google Translate's take: ["I am zero in programming, but I really liked the program itself"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%AF%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%BB%D1%8C%2C%20%D0%BD%D0%BE%20%D1%81%D0%B0%D0%BC%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BC%D0%BD%D0%B5%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%BD%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%D1%81%D1%8C&op=translate).
 
-* Consultation and implementation of a menu app for a waiter-less restaurant in Kyiv.
+[**Александр Громов**](https://vk.com/wall82826648_1150?reply=1198):
+
+> He's the GOAT. 🤗
+> 
+> Original: ["Топовый чел ин зе ворлд 🤗"](https://vk.com/wall82826648_1150?reply=1198).
+>
+> Google Translate's take: ["Top person in the world 🤗"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%A2%D0%BE%D0%BF%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%87%D0%B5%D0%BB%20%D0%B8%D0%BD%20%D0%B7%D0%B5%20%D0%B2%D0%BE%D1%80%D0%BB%D0%B4%20%F0%9F%A4%97&op=translate).
+
+* Consultation and implementation of a menu app for a waiter-less restaurant in Kyiv. Client: [Евгений](https://vk.com/id203068495).
 
 > During the discussion of several projects [he] proposed a plethora of interesting ideas, which soon were implemented by himself. Long story short, +rep.
 >
 > Original:["В процессе обсуждения нескольких проектов выдвигал множество интересных идей, которые вскоре были реализованы им же. +rep короче."](https://vk.com/wall82826648_1150?reply=1158).
 >
 > Google Translate's take: ["In the process of discussing several projects, he put forward many interesting ideas, which were soon implemented by him. +rep shorter"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%92%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B5%20%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8%D1%85%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20%D0%B2%D1%8B%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D0%BB%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B4%D0%B5%D0%B9%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B2%D1%81%D0%BA%D0%BE%D1%80%D0%B5%20%D0%B1%D1%8B%D0%BB%D0%B8%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B%20%D0%B8%D0%BC%20%D0%B6%D0%B5.%20%2Brep%20%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%B5&op=translate).
+
+* AutoHotkey tutoring. Clients: [Максим Декусаров](https://vk.com/maxuta_dmm), [Дмитрий Лавров](https://vk.com/dimka_zabby).
+
+[**Максим Декусаров**](https://vk.com/maxuta_dmm):
+
+> He helped [me] to write the programs [that I needed] and explained how to do this. I am immensely grateful.
+> 
+> Original: ["Помог написать программы и объяснил как это делать. Превелико благодарствую."](https://vk.com/wall82826648_1150?reply=1169).
+>
+> Google Translate's take: ["Helped write programs and explained how to do it. Thank you very much."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B8%20%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D0%BB%20%D0%BA%D0%B0%D0%BA%20%D1%8D%D1%82%D0%BE%20%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C.%20%D0%9F%D1%80%D0%B5%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83%D1%8E.&op=translate).
