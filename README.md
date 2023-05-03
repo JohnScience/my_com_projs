@@ -204,7 +204,21 @@ After two months of work, in the July of 2019, my friend Сергей Гонин
 
 ![Screenshot](https://sun9-25.userapi.com/impf/c850124/v850124158/181867/2BVEKOWcNcs.jpg?size=496x743&quality=96&sign=1ba8d2f751acfc1cf767359fa3fbe16a&type=album)
 
-Together, we managed to meet the deadline, and I continued to work on the project that I had in mind. The idea was to bridge content creators and companies in need of marketing campaigns for gamers.
+Together, we managed to meet the deadline, and I continued to work on the project that I had in mind.
 
+---
 
+The idea was to bridge content creators and companies in need of marketing campaigns for gamers.
+
+Based on what I learned from many streamers (mostly those of Mobile Legends),
+
+<details>
+  <summary>Full list</summary>
+
+* Тимур "tpabomah" Хафизов ( [VK](https://vk.com/travostream) | [YouTube](https://www.youtube.com/@tpabomah_) )
+* Пётр "Wonderbelka" Самошкин ( [VK](https://vk.com/windy1234) | [YouTube](https://www.youtube.com/@Wonderbelka) )
+* Андрей "Chiilstream" Горячев ( [VK](https://vk.com/davichto) | [YouTube](https://www.youtube.com/@Chiilstreeam) )
+</details>
+
+they all to some extent experienced a lack of time. This was especially true for more popular streamers. Streamers of all audience sizes also disliked if not hated the discussion of terms of native ads on live streams and in videos. They wanted to focus on creating content instead of doing the business side of it. That's why I decided to create a platform that would help streamers monetize their influence without hassle while offering companies an easy and cheap way to create marketing campaigns targeting the aduiences of the partnered streamers.
 
