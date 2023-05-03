@@ -178,3 +178,13 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 > Original: ["Помог написать программы и объяснил как это делать. Превелико благодарствую."](https://vk.com/wall82826648_1150?reply=1169).
 >
 > Google Translate's take: ["Helped write programs and explained how to do it. Thank you very much."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B8%20%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D0%BB%20%D0%BA%D0%B0%D0%BA%20%D1%8D%D1%82%D0%BE%20%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C.%20%D0%9F%D1%80%D0%B5%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83%D1%8E.&op=translate).
+
+---
+
+At point, sufficiently well in advance, I started readying for the exams and putting extra time into competitive programming prep. There were exceptions when my friends-programmers were in need of help but they were scarce.
+
+For example, in 2019 my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) was running low on time to meet the deadline so he requested my assistance, which I agreed to provide.
+
+* An android app for a water delivery company in the city of Perm. Fellow-contractor: Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ).
+
+![Screenshot](https://sun9-25.userapi.com/impf/c850124/v850124158/181867/2BVEKOWcNcs.jpg?size=496x743&quality=96&sign=1ba8d2f751acfc1cf767359fa3fbe16a&type=album)
