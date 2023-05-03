@@ -69,6 +69,9 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 
 Users of Science Chat reached out to me via Skype or VK that they learned from a topic on the Advance Roleplay forum. After paying the monthly fee, they were provided with unique-per-family clients with family logos as icons. Regardless of the family, these clients underwent the initialilizing procedure via a centralized server and after that established decentralized communication via UDP sockets. The server was responsible for delivering the most important messages such as muting, unmuting, nickname change, etc, as well as for storing the financial information (expiry dates, client contacts, etc).
 
+<details>
+  <summary>Related feedback</summary>
+
 [**Ярослав Тютин**](https://vk.com/one.hardy):
 
 > The author pays close attention to suggestions, criticism. The script is wonderful but still requires extra polishing.
@@ -161,6 +164,8 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 >
 > Google Translate's take: ["Helped to test a mini-project, noticed important shortcomings, thank you"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BC%D0%B8%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2C%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B5%D0%B4%D0%BE%D1%87%D0%B5%D1%82%D1%8B%2C%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83%D1%8E&op=translate).
 
+</details>
+  
 * Consultation and implementation of a menu app for a waiter-less restaurant in Kyiv. Client: [Евгений](https://vk.com/id203068495).
 
 > During the discussion of several projects [he] proposed a plethora of interesting ideas, which soon were implemented by himself. Long story short, +rep.
@@ -220,5 +225,5 @@ Based on what I learned from many streamers (mostly those of Mobile Legends),
 * Андрей "Chiilstream" Горячев ( [VK](https://vk.com/davichto) | [YouTube](https://www.youtube.com/@Chiilstreeam) )
 </details>
 
-they all to some extent experienced a lack of time. This was especially true for more popular streamers. Streamers of all audience sizes also disliked if not hated the discussion of terms of native ads on live streams and in videos. They wanted to focus on creating content instead of doing the business side of it. That's why I decided to create a platform that would help streamers monetize their influence without hassle while offering companies an easy and cheap way to create marketing campaigns targeting the aduiences of the partnered streamers.
+they all to some extent experienced a lack of time. This was especially true for more popular streamers, while smaller streamers did not get any sponsored content or ads. Streamers of all audience sizes also disliked if not hated the discussion of terms of native ads on live streams and in videos. They wanted to focus on creating content instead of doing the business side of it. That's why I decided to create a platform that would help streamers monetize their influence without hassle while offering companies an easy and cheap way to create marketing campaigns targeting the aduiences of the partnered streamers.
 
