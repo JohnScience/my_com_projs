@@ -89,14 +89,6 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 >
 > *Note: I refused to take up this job because gambling contravenes my principles.*
 
-* Test coverage and debugging of a chat bot for VK.
-
-> [He] helped me with testing of a mini-project, and found important defects, thank you.
-> 
-> Original: ["Помог протестировать мини-проект, заметил важные недочеты, благодарствую"](https://vk.com/wall82826648_1150?reply=1157).
->
-> Google Translate's take: ["Helped to test a mini-project, noticed important shortcomings, thank you"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BC%D0%B8%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2C%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B5%D0%B4%D0%BE%D1%87%D0%B5%D1%82%D1%8B%2C%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83%D1%8E&op=translate).
-
 [**Игорь Уткин**](https://vk.com/igorau):
 
 > Great script. Great author. [You got my] respect!
@@ -160,6 +152,14 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 > Original: ["Топовый чел ин зе ворлд 🤗"](https://vk.com/wall82826648_1150?reply=1198).
 >
 > Google Translate's take: ["Top person in the world 🤗"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%A2%D0%BE%D0%BF%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%87%D0%B5%D0%BB%20%D0%B8%D0%BD%20%D0%B7%D0%B5%20%D0%B2%D0%BE%D1%80%D0%BB%D0%B4%20%F0%9F%A4%97&op=translate).
+
+* Test coverage and debugging of a chat bot for VK.
+
+> [He] helped me with testing of a mini-project, and found important defects, thank you.
+> 
+> Original: ["Помог протестировать мини-проект, заметил важные недочеты, благодарствую"](https://vk.com/wall82826648_1150?reply=1157).
+>
+> Google Translate's take: ["Helped to test a mini-project, noticed important shortcomings, thank you"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BC%D0%B8%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2C%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B5%D0%B4%D0%BE%D1%87%D0%B5%D1%82%D1%8B%2C%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83%D1%8E&op=translate).
 
 * Consultation and implementation of a menu app for a waiter-less restaurant in Kyiv. Client: [Евгений](https://vk.com/id203068495).
 
