@@ -182,11 +182,29 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 ---
 
 At this point,  I started readying for the ЕГЭ (Unified State Exams, similar to [gaokao](https://en.wikipedia.org/wiki/Gaokao) or [A-Levels](https://en.wikipedia.org/wiki/A-Level)) and putting extra time into competitive programming preparations. After that, by the summer of 2017, I graduated from 
-[Perm School of Profound Study of Physics, Mathematics and Informatics No. 146](https://s146.ru/about) and moved to Calgary, Canada for the time of evaluation of my education documents. The reason why it was necessary is that the schoold I attended was a [GAT (aifted-and-talented) eduction institution](https://en.wikipedia.org/wiki/Gifted_education), which comes not only with perks but also with challenges, such those pertaining to the evaluation of the diploma. For example, we had Linear Algebra in our curriculum, which is a university-level subject in many countries, including Russia and Canada. These legal details delayed the evaluation of my documents and, consequently, my enrollment into a university. So I was left with a choice either to have a [sabbatical](https://en.wikipedia.org/wiki/Gap_year) or to study in a secondary school again. I did the latter.
+[Perm School of Profound Study of Physics, Mathematics and Informatics No. 146](https://s146.ru/about) and moved to Calgary, Canada for the time of evaluation of my education documents. However, the school I attended was a [GAT (aifted-and-talented) eduction institution](https://en.wikipedia.org/wiki/Gifted_education) and it came not only with perks but also with challenges, such those pertaining to the evaluation of the diploma. For example, we had Linear Algebra in our curriculum, which is a university-level subject in many countries, including Russia and Canada. These legal details delayed the evaluation of my documents and, consequently, my enrollment into a university. So I was left with a choice either to have a [sabbatical](https://en.wikipedia.org/wiki/Gap_year) or to study in a secondary school again while my documents were evaluated. I chose to attend a high school, improve my English, and get immersed into the new environment in Canada.
 
-In the summer 2019 my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) was running low on time to meet the deadline so he requested my assistance, which I agreed to provide.
+Even though I did relatively well in a new school, e.g. I had 95+ for Computer Science, I did not experience as much growth as I expected or desired. For instance, I did not do that great in English Language Arts (~60) and I could not get comprehensible feedback about my essays. I hardly could get anything more precise than "Your essays lacked flow". As a result, I had no single thing to meaningfully focus on at the new high school, so I switched my focus to search for a part-time or contract jobs in Software Development while I waited for the evaluation of my documents.
+
+In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., LTD. Here's an excerpt from [my LinkedIn profile](https://www.linkedin.com/in/dmitrii-demenev-9713a5167/) that summarizes my experience there:
+
+> When I only started working there, I was placed in the Forum Development Dpt. My main responsibilities were to locate possible problems in the working website and suggest solutions for elimination of these problems. Since the success of Mobile Legends was unpredictably great, the small company (at that time, only around 20 employees) had to review their approaches and the code base on the run because the fan base rapidly grew in numbers. Having an expertise in V8 allowed me to locate problems and provide elaborate reports about the issues.
+>
+> When I deserved the company's trust and respect, I was placed in the Discord Dpt. where I was given access to ML API under the non-disclosure agreement in order to develop a multipurpose bot which processed natural language, gathered relevant information and prepared a ground for better monetization. In January of 2019 I had to give up my position and postpone studying altogether because I had issues with my cognitive health after a head injury.
+
+---
+
+For almost 1.5 of a year after the incident I was unable to walk on my own and to talk without heavy stuttering. However, I persevered despite the difficulty.
+
+Even though initially I was barely able even to help myself, four months after the incident (April of 2019) I started slowly but surely working on a programming project that would eventually turn first into a product, and then into a short-lived but still a company. However, it did not happen immediately.
+
+After two months of work, in the July of 2019, my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) was running low on time to meet the deadline so he requested my assistance, which I agreed to provide while warning about the situation.
 
 * An android app for a water delivery company in the city of Perm. Fellow-contractor: Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ).
 
 ![Screenshot](https://sun9-25.userapi.com/impf/c850124/v850124158/181867/2BVEKOWcNcs.jpg?size=496x743&quality=96&sign=1ba8d2f751acfc1cf767359fa3fbe16a&type=album)
+
+Together, we managed to meet the deadline, and I continued to work on the project that I had in mind. The idea was to bridge content creators and companies in need of marketing campaigns for gamers.
+
+
 
