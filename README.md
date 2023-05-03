@@ -223,7 +223,16 @@ Based on what I learned from many streamers (mostly those of Mobile Legends),
 * Тимур "tpabomah" Хафизов ( [VK](https://vk.com/travostream) | [YouTube](https://www.youtube.com/@tpabomah_) )
 * Пётр "Wonderbelka" Самошкин ( [VK](https://vk.com/windy1234) | [YouTube](https://www.youtube.com/@Wonderbelka) )
 * Андрей "Chiilstream" Горячев ( [VK](https://vk.com/davichto) | [YouTube](https://www.youtube.com/@Chiilstreeam) )
+* *TODO*
 </details>
 
 they all to some extent experienced a lack of time. This was especially true for more popular streamers, while smaller streamers did not get any sponsored content or ads. Streamers of all audience sizes also disliked if not hated the discussion of terms of native ads on live streams and in videos. They wanted to focus on creating content instead of doing the business side of it. That's why I decided to create a platform that would help streamers monetize their influence without hassle while offering companies an easy and cheap way to create marketing campaigns targeting the aduiences of the partnered streamers.
+
+<details>
+  <summary>Organizational details</summary>
+
+After four months of work, the basic functionality of the platform was implemented, the next step was to start getting the content creators onboard. Even though the setup was designed to be very easy, convincing the streamers to add a third-party component to their [OBS](https://en.wikipedia.org/wiki/OBS_Studio) was a task requiring great care and thorough preparations. 
+
+*TODO*
+</details>
 
