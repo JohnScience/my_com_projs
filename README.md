@@ -235,6 +235,33 @@ After four months of work, the basic functionality of the platform was implement
 
 That's when I decided to cooperate with my previous employer, Moonton, to create some value for the streamers that would help get them on board. As a previous employee at a Discord department, I had experience of working with ML API, which notably exposed rank (also colloquially known as MMR or "stars").
 
-*TODO*
+After negotiations with my previous superior, my use of the API for small-scale testing was approved and in a couple of days the rank-displaying OBS component was ready and synchronized with the ML API via the relay that hid the actual ML API endpoints for the users.
+
+![Screenshot1](https://i.imgur.com/yU3Tlc3.png)
+
+![Screenshot2](https://i.imgur.com/KGUp5uu.png)
+
+And soon the access to the component would be provided to the first big streamer, [Jimahn "Gosu General" Park](https://www.youtube.com/@Teamgosu), who at the time had 10,000+ concurrent viewers on his streams in prime time.
+
+![Screenshot](https://i.imgur.com/AD0s5zR.png)
+
+With around 20,000 concurrent viewers, we got our first marketing campaigns and first expansion of the team.
+
+![screenshot](https://i.imgur.com/npNicjt.png)
+
+[Everything about Claude Guide (Build, Emblem, Tips)ㅣMobile Legends | Gosu General TV](https://youtu.be/Vv9_z5JkB2g?t=137)
+
+[Want to learn more?](https://www.linkedin.com/in/dmitrii-demenev-9713a5167/)
 </details>
 
+Unfortunately, the API was not prepared for such a broad use and got whitelisted. And getting access to the code even for the purpose of improvement and even with demonstrable financial gains was non-negotiable for non-residents of Shanghai. The operation was quickly halted as soon as the last contract would end, leaving the company in a sizable net-profit.
+
+---
+
+In October of 2019, I was offered a part-time position in R&D (Rust) for a small startup DBChase founded by an MIT graduate, Adil Mac. Details of the work there are protected by a [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement). I left the company in April 2020.
+
+---
+
+In November of 2020, I started studying remotely at Athabasca University (at the time, the only university in Canada accredited for delivering fully remote university programs) because attending a university in person was still challenging and I needed a reduced load.
+
+In October of 2022, I accepted a contract for Repalungs, a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
