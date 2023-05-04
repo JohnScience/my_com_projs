@@ -6,7 +6,7 @@ Legally, working even part-time in Russia is possible only at the age of 14, so 
 
 In 2013, I crated an account on no-longer-operational [фриланс.рф](фриланс.рф) where I started creating simple static landing pages with HTML, CSS, and a little bit of JavaScript (after approximately a half of a year of learning). Even at that point I did not have a GitHub or moreover GitLab account.
 
-In 2015, I received a request from my friend employed by [Advance Roleplay](https://www.adv-rp.com/about_us/) project to write a script that would help him and his colleagues perform their administrator duties easier and more effectively. He knew that admins on other projects used scripts written in C++-like [AutoHotkey](https://en.wikipedia.org/wiki/AutoHotkey) programming language. Fast-forward 2 years and in 2017 I become the top-2 on-demand AutoHotkey scripter in Russia due to [silly-yet-technical humour](https://vk.com/deemakid?w=wall82826648_1044) (that appealed to many of my peers) and close collaboration with my clients.
+In 2015, I received a request from my friend employed by [Advance Roleplay](https://www.adv-rp.com/about_us/) project to write a script that would help him and his colleagues perform their administrator duties easier and more effectively. He knew that admins on other projects used scripts written in C++-like [AutoHotkey](https://en.wikipedia.org/wiki/AutoHotkey) programming language. Fast-forward 2 years and in 2017 I become the top-2 on-demand AutoHotkey scripter among the small AutoHotkey programming community in Russia.
 
 ![screenshot](https://i.imgur.com/WMp9aAv.png)
 
@@ -218,20 +218,22 @@ The idea was to bridge content creators and companies in need of marketing campa
 Based on what I learned from many streamers (mostly those of Mobile Legends),
 
 <details>
-  <summary>Full list</summary>
+  <summary>List of streamers who filled out the questionaire</summary>
 
 * Тимур "tpabomah" Хафизов ( [VK](https://vk.com/travostream) | [YouTube](https://www.youtube.com/@tpabomah_) )
 * Пётр "Wonderbelka" Самошкин ( [VK](https://vk.com/windy1234) | [YouTube](https://www.youtube.com/@Wonderbelka) )
 * Андрей "Chiilstream" Горячев ( [VK](https://vk.com/davichto) | [YouTube](https://www.youtube.com/@Chiilstreeam) )
-* *TODO*
+* ...
 </details>
 
-they all to some extent experienced a lack of time. This was especially true for more popular streamers, while smaller streamers did not get any sponsored content or ads. Streamers of all audience sizes also disliked if not hated the discussion of terms of native ads on live streams and in videos. They wanted to focus on creating content instead of doing the business side of it. That's why I decided to create a platform that would help streamers monetize their influence without hassle while offering companies an easy and cheap way to create marketing campaigns targeting the aduiences of the partnered streamers.
+they all to some extent experienced a lack of time. This was especially true for more popular streamers, while smaller streamers did not get any sponsored content or ads. Streamers of all audience sizes also disliked if not hated the discussion of terms of native ads on live streams and in videos. They wanted to focus on creating content instead of doing the negotiations. That's why I decided to create a platform that would help streamers monetize their influence without hassle while offering companies an easy and cheap way to create marketing campaigns targeting the aduiences of the partnered streamers.
 
 <details>
   <summary>Organizational details</summary>
 
 After four months of work, the basic functionality of the platform was implemented, the next step was to start getting the content creators onboard. Even though the setup was designed to be very easy, convincing the streamers to add a third-party component to their [OBS](https://en.wikipedia.org/wiki/OBS_Studio) was a task requiring great care and thorough preparations. 
+
+That's when I decided to cooperate with my previous employer, Moonton, to create some value for the streamers that would help get them on board. As a previous employee at a Discord department, I had experience of working with ML API, which notably exposed rank (also colloquially known as MMR or "stars").
 
 *TODO*
 </details>
