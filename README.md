@@ -213,7 +213,7 @@ Together, we managed to meet the deadline, and I continued to work on the projec
 
 ---
 
-The idea was to bridge content creators and companies in need of marketing campaigns for gamers.
+The idea of the project was to bridge content creators and companies in need of marketing campaigns for gamers.
 
 Based on what I learned from many streamers (mostly those of Mobile Legends),
 
