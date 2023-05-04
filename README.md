@@ -303,7 +303,7 @@ In October of 2019, I was offered a part-time position in R&D (Rust) for a small
 
 In November of 2020, I started studying remotely at Athabasca University (at the time, the only university in Canada accredited for delivering fully remote university programs) because attending a university in person was still challenging and I needed a reduced load.
 
-In October of 2022, I accepted a contract for [Repalab](https://repalab.ru/), a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
+In November of 2022, I accepted a contract for [Repalab](https://repalab.ru/), a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
 
 <details>
   <summary>Technical details</summary>
@@ -316,6 +316,19 @@ Before I even contracted the startup, they already had core functionality writte
 
 At this point they started looking for candidates with [WebAssembly](https://webassembly.org/) experience.
   
-Even though I didn't know the intricate details of WebAssembly, I programmed in Rust, which at the time of writing the document had the highest support for WebAssembly among all programming languages at the time due to [`wasm_pack`](https://rustwasm.github.io/docs/wasm-pack/), [`wasm_bindgen`](https://github.com/rustwasm/wasm-bindgen), [`web_sys`](https://rustwasm.github.io/wasm-bindgen/api/web_sys/index.html), [`js_sys`](https://rustwasm.github.io/wasm-bindgen/contributing/js-sys/index.html), [`wapm`](https://github.com/wapm-packages/rust-wasi-example) and others. As a result, I was accepted for a paid probationary period.
+Even though I didn't know the intricate details of WebAssembly bytecode, I programmed in Rust, which at the time of writing the document had the highest support for WebAssembly among all programming languages at the time due to [`wasm_pack`](https://rustwasm.github.io/docs/wasm-pack/), [`wasm_bindgen`](https://github.com/rustwasm/wasm-bindgen), [`web_sys`](https://rustwasm.github.io/wasm-bindgen/api/web_sys/index.html), [`js_sys`](https://rustwasm.github.io/wasm-bindgen/contributing/js-sys/index.html), [`wapm`](https://github.com/wapm-packages/rust-wasi-example) and others. As a result, I was accepted for a paid probationary period.
   
+Within the first two-week [sprint](https://www.techtarget.com/searchsoftwarequality/definition/Scrum-sprint) I managed  to implement the most basic [paint](https://en.wikipedia.org/wiki/Microsoft_Paint)-like interface.
+  
+![screenshot](https://sun9-23.userapi.com/impg/EhbHM13F-cZhgCQbkp_r_GG9A1dGml31GFyZtA/2DJ8Dm39jMQ.jpg?size=1366x768&quality=95&sign=f3ce553f2ad9cb1f2b66f66f688a510f&type=album)
+  
+After some challenges with DICOM/NIFTI-1 to PNG/JPEG/BMP/... conversions
+  
+![actual](https://sun9-56.userapi.com/impg/BXi45PBdiQ6ccQ-DDCfc1lJvODAWE_lL5KsbCQ/qTAlt8yDn44.jpg?size=512x512&quality=96&sign=37c4672923c2bc6c0f5d68549e6c183e&type=album)
+  
+![expected](https://sun9-43.userapi.com/impg/yOIr2sKowjNhrSuAli9qfxv3RgMkHQW6sv48Qw/o9-oVl_gjEQ.jpg?size=512x512&quality=96&sign=2e4b674c5ab76c850d41a4b3e985acd5&type=album)
+  
+I discovered that [jmtyszka/atlaskit/nifti2png.py](https://github.com/jmtyszka/atlaskit/blob/master/nifti2png.py) was flawed in numerous and sometimes unexpected ways when converting it into Rust using [pyo3](https://github.com/PyO3/pyo3#using-python-from-rust).
+  
+Once the most basic functionality was ready, we collectively decided to ship our static frontend as an [Electron](https://www.electronjs.org/) in order to avoid challenges with safety in browsers.
 </details>
