@@ -305,6 +305,8 @@ In November of 2020, I started studying remotely at Athabasca University (at the
 
 In November of 2022, I accepted a contract for [Repalab](https://repalab.ru/), a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
 
+![screenshot](https://camo.githubusercontent.com/bc92b63c61f20a50d1af47a41e97325361d0837b8701fc15b1b5a0775b3b31c9/68747470733a2f2f692e696d6775722e636f6d2f417939556f504a2e706e67)
+
 <details>
   <summary>Technical details</summary>
   
