@@ -89,8 +89,14 @@ This solution consisted of several components:
 
 [**Science Chat 1.0 Beta**](https://www.youtube.com/watch?v=HmsZO19Qj_0)
 
-Users of Science Chat reached out to me via Skype or VK that they learned from a topic on the Advance Roleplay forum. After paying the monthly fee, they were provided with unique-per-family clients with family logos as icons. Regardless of the family, these clients underwent the initialilizing procedure via a centralized server and after that established decentralized communication via UDP sockets. The server was responsible for delivering the most important messages such as muting, unmuting, nickname change, etc, as well as for storing the financial information (expiry dates, client contacts, etc).
+Users of Science Chat reached out to me via Skype or VK that they learned from a topic on the Advance Roleplay forum. After paying the monthly fee, they were provided with unique-per-family clients with family logos as icons.
 
+<details>
+  <summary>Technical details</summary>
+  
+Regardless of the family, these clients underwent the initialilizing procedure via a centralized PHP&MySQL server and after that established decentralized communication via UDP sockets using a simple custom binary protocol. The server was responsible for delivering the most important messages such as muting, unmuting, nickname change, etc, as well as for storing the financial information (expiry dates, client contacts, etc).
+</details>
+  
 <details>
   <summary>Feedback</summary>
 
