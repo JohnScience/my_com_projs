@@ -304,3 +304,18 @@ In October of 2019, I was offered a part-time position in R&D (Rust) for a small
 In November of 2020, I started studying remotely at Athabasca University (at the time, the only university in Canada accredited for delivering fully remote university programs) because attending a university in person was still challenging and I needed a reduced load.
 
 In October of 2022, I accepted a contract for [Repalab](https://repalab.ru/), a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
+
+<details>
+  <summary>Technical details</summary>
+  
+Before I even contracted the startup, they already had core functionality written in Go programming language. They had an ML-powered server that generated "masks" (matrices of 1s and 0s) where 0 meant that the area of lung suffered from [ground-glass opacity](https://en.wikipedia.org/wiki/Ground-glass_opacity). And, according to the plan, the next stage of the project was to create a web application that would allow the radiologists to correct the masks as necessary, thereby semi-automating this worfklow (so that eventually this step could be fully automated). However, as the result of the research they conducted, they discovered several challenges:
+  
+  1. Work with the host filesystem was complicated by safety measures in browsers.
+  2. These file formats ([DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/)) were too niche and weren't supported by *any* JavaScript library.
+  3. The prototype experienced performance issues because the files were multi-dimensional, often [bit-deep](https://en.wikipedia.org/wiki/Color_depth) to reflect [Houndsfield scale](https://en.wikipedia.org/wiki/Hounsfield_scale), and not always Euclidean (i.e. the collective "shape" of the voxels was not a [orthotope](https://mathworld.wolfram.com/Orthotope.html)).
+
+At this point they started looking for candidates with [WebAssembly](https://webassembly.org/) experience.
+  
+Even though I didn't know the intricate details of WebAssembly, I programmed in Rust, which at the time of writing the document had the highest support for WebAssembly among all programming languages at the time due to [`wasm_pack`](https://rustwasm.github.io/docs/wasm-pack/), [`wasm_bindgen`](https://github.com/rustwasm/wasm-bindgen), [`web_sys`](https://rustwasm.github.io/wasm-bindgen/api/web_sys/index.html), [`js_sys`](https://rustwasm.github.io/wasm-bindgen/contributing/js-sys/index.html), [`wapm`](https://github.com/wapm-packages/rust-wasi-example) and others. As a result, I was accepted for a paid probationary period.
+  
+</details>
