@@ -243,7 +243,10 @@ After two months of work, in the July of 2019, my friend Сергей Гонин
 
 * An android app for a water delivery company in the city of Perm. Fellow-contractor: Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ).
 
+<details>
+  <summary>Screenshot</summary>
 ![Screenshot](https://sun9-25.userapi.com/impf/c850124/v850124158/181867/2BVEKOWcNcs.jpg?size=496x743&quality=96&sign=1ba8d2f751acfc1cf767359fa3fbe16a&type=album)
+</details>
 
 Together, we managed to meet the deadline, and I continued to work on the project that I had in mind.
 
