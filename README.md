@@ -258,10 +258,10 @@ Unfortunately, the API was not prepared for such a broad use and got whitelisted
 
 ---
 
-In October of 2019, I was offered a part-time position in R&D (Rust) for a small startup DBChase founded by an MIT graduate, Adil Mac. Details of the work there are protected by a [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement). I left the company in April 2020.
+In October of 2019, I was offered a part-time position in R&D (Rust) for a small startup DBChase founded by an MIT graduate, [Adil Mac](https://www.linkedin.com/in/adil-m-304bb23/). Details of the work there are protected by a [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement). I left the company in April 2020.
 
 ---
 
 In November of 2020, I started studying remotely at Athabasca University (at the time, the only university in Canada accredited for delivering fully remote university programs) because attending a university in person was still challenging and I needed a reduced load.
 
-In October of 2022, I accepted a contract for Repalungs, a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
+In October of 2022, I accepted a contract for [Repalab](https://repalab.ru/), a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
