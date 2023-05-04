@@ -14,6 +14,9 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 
 * Script for facilitation of admin tasks. Clients: [Максим Ивченко](https://vk.com/ivchencko1998), [Эдик Каримов](https://vk.com/id65484465).
 
+<details>
+  <summary>Feedback</summary>
+
 [**Максим Ивченко**](https://vk.com/ivchencko1998):
 
 > [I] agree with other commentators. The guy writes great scripts and what's the most important is that he doesn't get mad when asked for assistance.
@@ -21,8 +24,12 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 > Original: ["Согласен с остальными комментаторами. Чел пишет отличные скрипты и что главное, не бомбит если просишь помощи."](https://vk.com/wall82826648_1150?reply=1168).
 > 
 > Google Translate's take: ["Agree with other commentators. Chel writes excellent scripts and, most importantly, does not bomb if you ask for help."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B5%D0%BD%20%D1%81%20%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC%D0%B8.%20%D0%A7%D0%B5%D0%BB%20%D0%BF%D0%B8%D1%88%D0%B5%D1%82%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B%20%D0%B8%20%D1%87%D1%82%D0%BE%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%2C%20%D0%BD%D0%B5%20%D0%B1%D0%BE%D0%BC%D0%B1%D0%B8%D1%82%20%D0%B5%D1%81%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%88%D1%8C%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8.&op=translate).
+</details>
 
 * Script that puts the [hovered](https://www.merriam-webster.com/dictionary/hover) player on the wanted list, notifies everyone in the police department about that, and informs the staff about the location of the crime scene. Initial client: [Захар Алексеевич](https://vk.com/qw2143). Consequent client: [Руслан Завгородний](https://vk.com/zavgorus2k).
+
+<details>
+  <summary>Feedback</summary>
 
 [**Захар Алексеевич**](https://vk.com/qw2143):
 
@@ -39,6 +46,7 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 > Original: ["Человек, который является профессионалом в сфере программирования. Огромная база знаний и богатый опыт позволяют ему создавать разноплановые скрипты, которые удивляют аудиторию."](https://vk.com/wall82826648_1150?reply=1167).
 >
 > Google Translate's take: ["A person who is a professional in the field of programming. A huge knowledge base and rich experience allow him to create diverse scripts that surprise the audience."](https://translate.google.com/?sl=ru&tl=en&text=%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BE%D0%BC%20%D0%B2%20%D1%81%D1%84%D0%B5%D1%80%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.%20%D0%9E%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D0%B9%20%D0%BE%D0%BF%D1%8B%D1%82%20%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D1%8F%D1%8E%D1%82%20%D0%B5%D0%BC%D1%83%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D1%83%D0%B4%D0%B8%D0%B2%D0%BB%D1%8F%D1%8E%D1%82%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8E.%0A&op=translate&hl=en).
+</details>
 
 * Secure Admin Log-in software package for Wave RP (written before the post). Clients: [Дмитрий Кот](https://vk.com/kowka228) and [Эдик Каримов](https://vk.com/id65484465).
 
@@ -50,7 +58,10 @@ This solution consisted of several components:
   - Minimal PHP & MySQL server implementing the necessary routing and handlers, including those for keeping the track of the admin data records, as well as those for providing REST API for verification of one-time passwords-hashes generated based on the serial numbers of the hard drives and time (for up to 3 secs difference).
   - Secure Admin Log-in application builder. This builder was supposed to build binary-wise distinct yet functionally equivalent applications for each new admin so that the leaks of the applications were identifiable. Functionally, any of these applications would notify the server about being ran on a particular hardware (serial number of the hard drive) and on a particular IP so that the server could instantly remove the admin rights of the suspected admin if their admin ID is compomised and so that the admin could log-in with dynamically-generated passwords hassle-free.
 </details>
-  
+
+<details>
+  <summary>Feedback</summary>
+
 > He executes all [feature-]requests with brilliance. [He posses] creativity and out-of-the-box approach to development, as well as great *исполнительность* (check notes) and responsibility. To sum it up, AMAZING!
 > 
 > *Linguistic note: the word "исполнительность" is a noun that means the capability of an individual to get things done, often implying regardless of the circumstances and ["black swans"](https://en.wikipedia.org/wiki/Black_swan_theory). It also has a strong connotation with self-discipline and/or diligence.*
@@ -58,14 +69,19 @@ This solution consisted of several components:
 > Original: ["Справляется со всеми задачами на отлично. Креативность и нестандартный подход к делу, а также хорошая исполнительность и чувство ответственности. В общем, мо-ло-дец!"](https://vk.com/wall82826648_1150?reply=1165).
 > 
 > Google Translate's take: ["Copes with all tasks perfectly well. Creativity and a non-standard approach to business, as well as good diligence and a sense of responsibility. In general, mo-lo-dets!"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F%20%D1%81%D0%BE%20%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC%D0%B8%20%D0%BD%D0%B0%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D0%BE.%20%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%20%D0%BD%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%20%D0%BA%20%D0%B4%D0%B5%D0%BB%D1%83%2C%20%D0%B0%20%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%20%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8.%20%D0%92%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BC%2C%20%D0%BC%D0%BE-%D0%BB%D0%BE-%D0%B4%D0%B5%D1%86!&op=translate).
+</details>
 
 * Assistance with Google Authentication for regular users via [PHPGangsta/GoogleAuthenticator](https://github.com/PHPGangsta/GoogleAuthenticator). Client: [Дмитрий Кот](https://vk.com/kowka228).
+
+<details>
+  <summary>Feedback</summary>
 
 > [The author] helped with Google Authenticator Web API in short time. I'm very grateful, thanks.
 > 
 > Original: ["Помог с Web API Google Authenticator за короткое время. I'm very blagodaren, thanks."](https://vk.com/deemakid?w=wall82826648_1150_r1154).
 >
 > Google Translate's take: ["Helped with Google Authenticator Web API in a short time. I'm very grateful, thanks."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D1%81%20Web%20API%20Google%20Authenticator%20%D0%B7%D0%B0%20%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F.%20I%27m%20very%20blagodaren%2C%20thanks.&op=translate).
+</details>
 
 * In-game SAMP-server-independent clan chat Science Chat with moderation capabilites. SaaS clients (each representing 20+-member clan or "family" in the SAMP parlance): [Ванёк Менякин](https://vk.com/vanek185), [Ярослав Тютин](https://vk.com/one.hardy), [Иван Попов](https://vk.com/id157455936), [Игорь Уткин](https://vk.com/igorau), [Кирилл Ткач](https://vk.com/kirillxtkach), [Александр Громов](https://vk.com/wall82826648_1150?reply=1198).
 
@@ -76,7 +92,7 @@ This solution consisted of several components:
 Users of Science Chat reached out to me via Skype or VK that they learned from a topic on the Advance Roleplay forum. After paying the monthly fee, they were provided with unique-per-family clients with family logos as icons. Regardless of the family, these clients underwent the initialilizing procedure via a centralized server and after that established decentralized communication via UDP sockets. The server was responsible for delivering the most important messages such as muting, unmuting, nickname change, etc, as well as for storing the financial information (expiry dates, client contacts, etc).
 
 <details>
-  <summary>Related feedback</summary>
+  <summary>Feedback</summary>
 
 [**Ярослав Тютин**](https://vk.com/one.hardy):
 
@@ -174,13 +190,20 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
   
 * Consultation and implementation of a menu app for a waiter-less restaurant in Kyiv. Client: [Евгений](https://vk.com/id203068495).
 
+<details>
+  <summary>Feedback</summary>
+
 > During the discussion of several projects [he] proposed a plethora of interesting ideas, which soon were implemented by himself. Long story short, +rep.
 >
 > Original:["В процессе обсуждения нескольких проектов выдвигал множество интересных идей, которые вскоре были реализованы им же. +rep короче."](https://vk.com/wall82826648_1150?reply=1158).
 >
 > Google Translate's take: ["In the process of discussing several projects, he put forward many interesting ideas, which were soon implemented by him. +rep shorter"](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%92%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B5%20%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8%D1%85%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20%D0%B2%D1%8B%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D0%BB%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B4%D0%B5%D0%B9%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B2%D1%81%D0%BA%D0%BE%D1%80%D0%B5%20%D0%B1%D1%8B%D0%BB%D0%B8%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B%20%D0%B8%D0%BC%20%D0%B6%D0%B5.%20%2Brep%20%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%B5&op=translate).
+</details>
 
 * AutoHotkey tutoring. Clients: [Максим Декусаров](https://vk.com/maxuta_dmm), [Дмитрий Лавров](https://vk.com/dimka_zabby).
+
+<details>
+  <summary>Feedback</summary>
 
 [**Максим Декусаров**](https://vk.com/maxuta_dmm):
 
@@ -189,6 +212,7 @@ Users of Science Chat reached out to me via Skype or VK that they learned from a
 > Original: ["Помог написать программы и объяснил как это делать. Превелико благодарствую."](https://vk.com/wall82826648_1150?reply=1169).
 >
 > Google Translate's take: ["Helped write programs and explained how to do it. Thank you very much."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B8%20%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D0%BB%20%D0%BA%D0%B0%D0%BA%20%D1%8D%D1%82%D0%BE%20%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C.%20%D0%9F%D1%80%D0%B5%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83%D1%8E.&op=translate).
+</details>
 
 ---
 
