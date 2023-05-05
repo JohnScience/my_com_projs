@@ -14,6 +14,8 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 
 * Script for facilitation of admin tasks. Clients: [Максим Ивченко](https://vk.com/ivchencko1998), [Эдик Каримов](https://vk.com/id65484465).
 
+**Skills**: AutoHotkey · [SAMPUDF](https://github.com/paul-phoenix/SAMP-UDF-for-AutoHotKey) · [CheatEngine](https://en.wikipedia.org/wiki/Cheat_Engine) · Lua · [WinApi](https://en.wikipedia.org/wiki/Windows_API) · [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) · [RegEx](https://en.wikipedia.org/wiki/Regular_expression)
+
 <details>
   <summary>Feedback</summary>
 
@@ -27,6 +29,8 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 </details>
 
 * Script that puts the [hovered](https://www.merriam-webster.com/dictionary/hover) player on the wanted list, notifies everyone in the police department about that, and informs the staff about the location of the crime scene. Initial client: [Захар Алексеевич](https://vk.com/qw2143). Consequent client: [Руслан Завгородний](https://vk.com/zavgorus2k).
+
+**Skills**: AutoHotkey · [SAMPUDF](https://github.com/paul-phoenix/SAMP-UDF-for-AutoHotKey) · [CheatEngine](https://en.wikipedia.org/wiki/Cheat_Engine) · Lua · [WinApi](https://en.wikipedia.org/wiki/Windows_API) · [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
 
 <details>
   <summary>Feedback</summary>
@@ -49,6 +53,8 @@ In 2015, I received a request from my friend employed by [Advance Roleplay](http
 </details>
 
 * Secure Admin Log-in software package for Wave RP (written before the post). Clients: [Дмитрий Кот](https://vk.com/kowka228) and [Эдик Каримов](https://vk.com/id65484465).
+
+**Skills**: AutoHotkey · [SAMPUDF](https://github.com/paul-phoenix/SAMP-UDF-for-AutoHotKey) · [CheatEngine](https://en.wikipedia.org/wiki/Cheat_Engine) · Lua · [WinApi](https://en.wikipedia.org/wiki/Windows_API) · [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) · [RegEx](https://en.wikipedia.org/wiki/Regular_expression) · [Socket Programming](https://www.geeksforgeeks.org/socket-programming-cc/) · PHP · MySQL · REST API
 
 <details>
   <summary>Technical details</summary>
@@ -88,6 +94,8 @@ This solution consisted of several components:
 ![Science Chat 1 0 Beta 1-31 screenshot](https://user-images.githubusercontent.com/16991108/235563972-fc2acf9e-e081-4485-ba65-3bba55fab4da.png)
 
 [**Science Chat 1.0 Beta**](https://www.youtube.com/watch?v=HmsZO19Qj_0)
+
+**Skills**: AutoHotkey · [SAMPUDF](https://github.com/paul-phoenix/SAMP-UDF-for-AutoHotKey) · [CheatEngine](https://en.wikipedia.org/wiki/Cheat_Engine) · Lua · [WinApi](https://en.wikipedia.org/wiki/Windows_API) · [Component Object Model (COM)](https://learn.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal) · [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) · [RegEx](https://en.wikipedia.org/wiki/Regular_expression) · [Socket Programming](https://www.geeksforgeeks.org/socket-programming-cc/) · PHP · MySQL · REST API  · HTML · CSS · [Payment Gateway APIs](https://en.wikipedia.org/wiki/Payment_gateway)
 
 Users of Science Chat reached out to me via [`Skype`](https://en.wikipedia.org/wiki/Skype) or VK that they learned from a topic on the Advance Roleplay forum. After paying the monthly fee, they were provided with unique-per-family clients with family logos as icons.
 
