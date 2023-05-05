@@ -241,7 +241,7 @@ For almost 1.5 of a year after the incident I was unable to walk on my own and t
 
 Even though initially I was barely able even to help myself, four months after the incident (April of 2019) I started slowly but surely working on a programming project that would eventually turn first into a product, and then into a short-lived but still a company. However, it did not happen immediately.
 
-After two months of work, in the July of 2019, I got contacted by my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) who was running low on time to meet the deadline. He he requested my assistance, which I agreed to provide while warning about the situation.
+After two months of work, in the July of 2019, I got contacted by my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) who was running low on time to meet the deadline. He requested my assistance, which I agreed to provide while warning about the situation.
 
 * An android app for a water delivery company in the city of Perm. Fellow-contractor: Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ).
 
