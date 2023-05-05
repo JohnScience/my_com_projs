@@ -332,5 +332,5 @@ After some challenges with DICOM/NIFTI-1 to PNG/JPEG/BMP/... conversions
   
 I discovered that [jmtyszka/atlaskit/nifti2png.py](https://github.com/jmtyszka/atlaskit/blob/master/nifti2png.py) was flawed in numerous and sometimes unexpected ways when converting it into Rust using [pyo3](https://github.com/PyO3/pyo3#using-python-from-rust).
   
-Once the most basic functionality was ready, we collectively decided to ship our static frontend as an [Electron](https://www.electronjs.org/) in order to avoid challenges with safety in browsers.
+Once the most basic functionality was ready, we collectively decided to ship our static frontend as an [Electron](https://www.electronjs.org/) app in order to avoid challenges with safety in browsers. However, later in the development we decided to switch to [Tauri](https://tauri.app/) because I discovered that [`electron-forge`](https://www.electronforge.io/) did not support local dependencies on [`Windows`]. In addition, switching to Tauri allowed to use Rust for the development of the backend process without [`neon`](https://neon-bindings.com/) bindings.
 </details>
