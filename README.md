@@ -233,6 +233,8 @@ In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., 
 >
 > When I deserved the company's trust and respect, I was placed in the Discord Dpt. where I was given access to ML API under the non-disclosure agreement in order to develop a multipurpose bot which processed natural language, gathered relevant information and prepared a ground for better monetization. In January of 2019 I had to give up my position and postpone studying altogether because I had issues with my cognitive health after a head injury.
 
+**Skills:** C++ · Kanban · Web Development · Linux · SQL · HTML · jQuery · REST · PostgreSQL · JIRA · Git · JavaScript · SCSS · Node.js · Handlebars.js · n-api · V8 · Discord · SQLite3 · CMake · Markdown
+
 ---
 
 For almost 1.5 of a year after the incident I was unable to walk on my own and to talk without heavy stuttering. However, I persevered despite the difficulty.
@@ -247,6 +249,8 @@ After two months of work, in the July of 2019, my friend Сергей Гонин
   <summary>Screenshot</summary>
 ![Screenshot](https://sun9-25.userapi.com/impf/c850124/v850124158/181867/2BVEKOWcNcs.jpg?size=496x743&quality=96&sign=1ba8d2f751acfc1cf767359fa3fbe16a&type=album)
 </details>
+
+**Skills**: Java · RxJava · SQLite · Dagger · Gradle · Lombok
 
 Together, we managed to meet the deadline, and I continued to work on the project that I had in mind.
 
