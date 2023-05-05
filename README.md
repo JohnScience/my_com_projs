@@ -241,6 +241,19 @@ In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., 
 >
 > When I deserved the company's trust and respect, I was placed in the Discord Dpt. where I was given access to ML API under the non-disclosure agreement in order to develop a multipurpose bot which processed natural language, gathered relevant information and prepared a ground for better monetization. In January of 2019 I had to give up my position and postpone studying altogether because I had issues with my cognitive health after a head injury.
 
+<details>
+  <summary>Screenshots</summary>
+  
+![Screenshot1](https://i.imgur.com/Rfg61QW.png)
+![Screenshot2](https://i.imgur.com/Djyf3Cp.png)
+![Screenshot3](https://i.imgur.com/T3QdE8F.png)
+
+*Note: the highlighted member merely caused a trouble in prod*
+
+![Screenshot4](https://i.imgur.com/6jPXxfw.png)
+
+</details>
+
 **Skills:** C++ · Kanban · Web Development · Linux · SQL · HTML · jQuery · REST · PostgreSQL · JIRA · Git · JavaScript · SCSS · Node.js · Handlebars.js · n-api · V8 · Discord API · SQLite3 · CMake · Markdown · NLTK
 
 ---
