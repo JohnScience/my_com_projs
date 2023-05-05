@@ -227,7 +227,7 @@ At this point,  I started readying for the ЕГЭ (Unified State Exams, similar 
 
 Even though I did relatively well in a new school, e.g. I had 95+ for Computer Science, I did not experience as much growth as I expected or desired. For instance, I did not do that great in English Language Arts (~60) and I could not get comprehensible feedback about my essays. I hardly could get anything more precise than "Your essays lacked flow". As a result, I had no single thing to meaningfully focus on at the new high school, so I switched my focus to search for a part-time or contract jobs in Software Development while I waited for the evaluation of my documents.
 
-In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., LTD. Here's an excerpt from [my LinkedIn profile](https://www.linkedin.com/in/dmitrii-demenev-9713a5167/) that summarizes my experience there:
+In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., LTD. Here is an excerpt from [my LinkedIn profile](https://www.linkedin.com/in/dmitrii-demenev-9713a5167/) that summarizes my experience there:
 
 > When I only started working there, I was placed in the Forum Development Dpt. My main responsibilities were to locate possible problems in the working website and suggest solutions for elimination of these problems. Since the success of Mobile Legends was unpredictably great, the small company (at that time, only around 20 employees) had to review their approaches and the code base on the run because the fan base rapidly grew in numbers. Having an expertise in V8 allowed me to locate problems and provide elaborate reports about the issues.
 >
