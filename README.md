@@ -83,13 +83,13 @@ This solution consisted of several components:
 > Google Translate's take: ["Helped with Google Authenticator Web API in a short time. I'm very grateful, thanks."](https://translate.google.com/?hl=en&sl=ru&tl=en&text=%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%20%D1%81%20Web%20API%20Google%20Authenticator%20%D0%B7%D0%B0%20%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F.%20I%27m%20very%20blagodaren%2C%20thanks.&op=translate).
 </details>
 
-* In-game SAMP-server-independent clan chat Science Chat with moderation capabilites. SaaS clients (each representing 20+-member clan or "family" in the SAMP parlance): [Ванёк Менякин](https://vk.com/vanek185), [Ярослав Тютин](https://vk.com/one.hardy), [Иван Попов](https://vk.com/id157455936), [Игорь Уткин](https://vk.com/igorau), [Кирилл Ткач](https://vk.com/kirillxtkach), [Александр Громов](https://vk.com/wall82826648_1150?reply=1198).
+* In-game SAMP-server-independent clan chat Science Chat with moderation capabilites. [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) clients (each representing 20+-member clan or "family" in the SAMP parlance): [Ванёк Менякин](https://vk.com/vanek185), [Ярослав Тютин](https://vk.com/one.hardy), [Иван Попов](https://vk.com/id157455936), [Игорь Уткин](https://vk.com/igorau), [Кирилл Ткач](https://vk.com/kirillxtkach), [Александр Громов](https://vk.com/wall82826648_1150?reply=1198).
 
 ![Science Chat 1 0 Beta 1-31 screenshot](https://user-images.githubusercontent.com/16991108/235563972-fc2acf9e-e081-4485-ba65-3bba55fab4da.png)
 
 [**Science Chat 1.0 Beta**](https://www.youtube.com/watch?v=HmsZO19Qj_0)
 
-Users of Science Chat reached out to me via Skype or VK that they learned from a topic on the Advance Roleplay forum. After paying the monthly fee, they were provided with unique-per-family clients with family logos as icons.
+Users of Science Chat reached out to me via [`Skype`](https://en.wikipedia.org/wiki/Skype) or VK that they learned from a topic on the Advance Roleplay forum. After paying the monthly fee, they were provided with unique-per-family clients with family logos as icons.
 
 <details>
   <summary>Technical details</summary>
