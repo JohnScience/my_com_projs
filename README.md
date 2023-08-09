@@ -256,6 +256,12 @@ In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., 
 
 **Skills:** C++ · Kanban · Web Development · Linux · SQL · HTML · jQuery · REST · PostgreSQL · JIRA · Git · JavaScript · SCSS · Node.js · Handlebars.js · n-api · V8 · Discord API · SQLite3 · CMake · Markdown · NLTK
 
+<details>
+  <summary>Skill application breadkdown</summary>
+
+  ![Skill application breadkdown](https://i.imgur.com/UlgtgO9.png)
+</details>
+
 ---
 
 For almost 1.5 of a year after the incident I was unable to walk on my own and to talk without heavy stuttering. However, I persevered despite the difficulty.
