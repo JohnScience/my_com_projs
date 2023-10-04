@@ -262,6 +262,21 @@ In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., 
   ![Skill application breadkdown](https://i.imgur.com/UlgtgO9.png)
 </details>
 
+<details>
+  <summary>Responsibilities</summary>
+
+* Provided brief weekly written reports of the conducted work using Google Sheets.
+* Performed various programming tasks requested on Trello board using JavaScript (web/Node.js), Handlebars, EJS, SQL (sqlite3), redis, Google APIs, and internal APIs.
+* Developed and refined the internal analytics website using HTML, SCSS, JavaScript, and chart.js for the frontend, and JavaScript (Node.js), EJS templating engine, SQL (sqlite3), and internal APIs for the backend.
+* Implemented urgently needed handler of the Halpo assistant that became responsible for automated answering of F.A.Q., using JavaScript (Node.js) and RegEx (regular expressions).
+* Created a monitoring Discord bot that became responsible for addressing user analytics needs using Python (Flask), Discord API, and nltk for Natural Language Processing (sentiment analysis and topic analysis at a sub-sentence level).
+* Optimized an OLTP database access by implementing caching with redis.
+* Developed a V8-friendly native C++ Node.js module to address the surge in traffic using C++17, CMake, napi.
+* Due to low gains of automation in the short term, produced a step-by-step documentation of a complex installation process for the built toolchain for Linux, Windows, MacOS, and MinGW using Markdown + Mermaid.
+* Manually rolled out the updates of the Halpo Discord bot-assistant using SSH, CentOS, and pm2.
+* In the first two weeks, identified and located i18n, CSS, and JS problems in the forum website, and suggested solutions for elimination these problems.
+</details>
+
 ---
 
 For almost 1.5 of a year after the incident I was unable to walk on my own and to talk without heavy stuttering. However, I persevered despite the difficulty.
