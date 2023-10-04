@@ -8,7 +8,7 @@ In 2013, I crated an account on no-longer-operational [фриланс.рф](фр
 
 In 2015, I received a request from my friend employed by [Advance Roleplay](https://www.adv-rp.com/about_us/) project to write a script that would help him and his colleagues perform their administrator duties easier and more effectively. He knew that admins on other projects used scripts written in C++-like [AutoHotkey](https://en.wikipedia.org/wiki/AutoHotkey) programming language. Fast-forward 2 years and in 2017 I become the top-2 on-demand AutoHotkey scripter among the small AutoHotkey programming community in Russia.
 
-![screenshot](https://i.imgur.com/WMp9aAv.png)
+![screenshot](https://i.imgur.com/h5teKZ9.png)
 
 *[The post](https://vk.com/wall82826648_1150) reads ["For feedback"](https://translate.google.com/?sl=ru&tl=en&text=%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%BE%D0%B2%20%D0%BE%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5&op=translate&hl=en)*
 
