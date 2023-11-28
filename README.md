@@ -2,7 +2,7 @@
 
 My programming journey started rather early, at the age of 10 (2009). And only two years later (yes, at the age of 12) I started applying my nascent programming skills and knowledge commercially. I lived with grandparents who had a pension that was comparatively high but [low in absolute numbers](https://www.statista.com/statistics/1093950/average-monthly-retirement-benefit-value-russia/), so I had to work part-time to enjoy [tarkhun](https://en.wikipedia.org/wiki/Tarkhuna_(drink)), [baikal](https://en.wikipedia.org/wiki/Baikal_(drink)), and pizza or simply even be able to buy water so that I could play soccer with my friends without suffering from thirst.
 
-Legally, [working even part-time in Russia is possible only at the age of 14](https://www.consultant.ru/document/cons_doc_LAW_34683/9627c87f117f9ccaaf55a73c9a614626c1e87ce0/), so I had to work on [Onionland](https://en.wiktionary.org/wiki/Onionland) forums via [Tor](https://en.wikipedia.org/wiki/Tor_(network)) to circumvent the legal barrier that I consider unfair up to this day. My tools at the time were [Cheat Engine](https://en.wikipedia.org/wiki/Cheat_Engine) with [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) scripts for [dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis), custom-patched [IDA Pro](https://en.wikipedia.org/wiki/Interactive_Disassembler) for [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis), and a [FLY-CODE Dr Web Unpacker](https://cdn-download.drweb.com/pub/drweb/esuite/13.0.0/documentation/drweb-13.0-esuite-user-manual-windows-en.pdf) for cracking then-state-of-the-art [Armadillo Software Protection System](https://www.google.com/search?q=Armadillo+Software+Protection+System). *I deliberately never wrote, distributed, or in any way participated in the development of any malware.*
+De jure, [working even part-time in Russia is possible only at the age of 14](https://www.consultant.ru/document/cons_doc_LAW_34683/9627c87f117f9ccaaf55a73c9a614626c1e87ce0/), so I had to work on [Onionland](https://en.wiktionary.org/wiki/Onionland) forums via [Tor](https://en.wikipedia.org/wiki/Tor_(network)) to circumvent the legal barrier that I consider unfair up to this day. My tools at the time were [Cheat Engine](https://en.wikipedia.org/wiki/Cheat_Engine) with [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) scripts for [dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis), custom-patched [IDA Pro](https://en.wikipedia.org/wiki/Interactive_Disassembler) for [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis), and a [FLY-CODE Dr Web Unpacker](https://cdn-download.drweb.com/pub/drweb/esuite/13.0.0/documentation/drweb-13.0-esuite-user-manual-windows-en.pdf) for cracking then-state-of-the-art [Armadillo Software Protection System](https://www.google.com/search?q=Armadillo+Software+Protection+System). *I deliberately never wrote, distributed, or in any way participated in the development of any malware.*
 
 In 2013, I crated an account on no-longer-operational [фриланс.рф](фриланс.рф) where I started creating simple static [landing pages](https://en.wikipedia.org/wiki/Landing_page) with HTML, CSS, and a little bit of JavaScript (after approximately a half of a year of learning). Even at that point I did not have a GitHub or moreover GitLab account.
 
@@ -388,3 +388,21 @@ When we changed the default image from 512x512x101 to a higher quality image, th
 
 For the data transfer, I decided to implement a custom protocol in order to fully utilize [`ReadableStreamBYOBReader`](https://developer.mozilla.org/en-US/docs/Web/API/ReadableStreamBYOBReader) and [`ReadableStreamDefaultReader`](https://developer.mozilla.org/en-US/docs/Web/API/ReadableStreamDefaultReader) interfaces and provide smooth user experience.
 </details>
+
+<details>
+  <summary>More screenshots</summary>
+  
+  ![Screenshot (477)](https://github.com/JohnScience/my_com_projs/assets/16991108/f0c08981-f4db-4dea-911a-5cbcc2c4ac44)
+  ![Screenshot (478)](https://github.com/JohnScience/my_com_projs/assets/16991108/efa45d4e-f890-4ecc-9b35-9d7bed5feb97)
+
+</details>
+
+By August of 2023, the product was complete and the maintenance has been passed delegated. Due to the war in Ukraine, the investments started targeting the technology for military applications, and I had no choice but to part my ways with the team.
+
+Rather quickly, I joined my friends at a startup called Group Labs and started creating a prototype for a cross-platform betting app (https://github.com/JohnScience/betting_app) that was meant to be the off-chain part of the software solution for transparent betting over NOSTR & Lighting protocols. Unfortunately, the client disappeared.
+ 
+With massive layoffs in the tech sector and crypto winter, I found myself competing against droves of other developers. My mom has been affected by the layoffs as well despite being one of the best business analysts in Rife Resources Ltd and despite staying with them for 11 years. All this and frequent mentions of ["focus on efficiency"](https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/) made me question whether the shift in the economy is structural or is a fluctuation. Despite 12 years of commercial experience at this point, I started considering pivoting into Construction or Drilling Rig jobs, since these jobs could be more resilient towards automation due to higher costs of the hardware and due to these fields being the two most technologically lagging.
+
+Luckily, thanks to my hard work, I had a track record of delivering a wide variety of high quality software quickly, so I was very competitive on the freelance market. I started landing conracts very soon, and the very first client became my regular.
+
+It started with a simple proof-of-concept of a launcher for the game of Rust written in Rust with Tauri. My client had a team of frontend developers.
