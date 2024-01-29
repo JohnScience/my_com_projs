@@ -399,14 +399,33 @@ For the data transfer, I decided to implement a custom protocol in order to full
 
 By August of 2023, the product was complete and the maintenance has been passed delegated. Due to the war in Ukraine, the investments started targeting the technology for military applications, and I had no choice but to part my ways with the team.
 
+---
+
 Rather quickly, I joined my friends at a startup called Group Labs and started creating a prototype for a cross-platform betting app (https://github.com/JohnScience/betting_app) that was meant to be the off-chain part of the software solution for transparent betting over NOSTR & Lighting protocols. Unfortunately, the client disappeared.
+
+---
  
 With massive layoffs in the tech sector and crypto winter, I found myself competing against droves of other developers. My mom has been affected by the layoffs as well despite being one of the best business analysts in Rife Resources Ltd and despite staying with them for 11 years. All this and frequent mentions of ["focus on efficiency"](https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/) made me question whether the shift in the economy is structural or is a fluctuation. Despite 12 years of commercial experience at this point, I started considering pivoting into Construction or Drilling Rig jobs, since these jobs could be more resilient towards automation due to higher costs of the hardware and due to these fields being the two most technologically lagging.
+
+---
 
 Luckily, thanks to my hard work, I had a track record of delivering a wide variety of high quality software quickly, so I was very competitive on the freelance market. I started landing conracts very soon, and the very first client (Kirill) became my regular.
 
 It happened on September September 24 and started with a simple proof-of-concept of a launcher for the game of Rust written in Rust programming language with Tauri cross-platform application framework. My client had a team of frontend developers. so he needed me only to write the code for the Core process of Tauri. More precisely, he wanted to launch Rust by calling into a DLL. And I implemented and tested the functionality in 1.5h (https://github.com/JohnScience/tauri-dll-example).
 
-After this, I had a bit more time and another person requested to write a multi-timer for (physical) containers with audio notifications. I've made a prototype within a day after accepting an offer but the client disappeared.
+---
+
+After this, I had a bit more time and another person requested to write a simple MRP system featuring a multi-timer for construction processes and audio notifications. I've made a prototype within a day after accepting an offer but the client disappeared.
+
+---
 
 By that time, Kirill (my regular client) had another task for me. He wanted me to write the code that would download the missing/changed files from the remote server. After considerable struggles with error handling and absence of async/fallible drops in Rust, I settled on a blocking yet maintainable and reasonably fast solution.
+
+---
+
+After that, I worked on several projects with [Sergey Vlasov](https://vk.com/grengreen) as a tech consultant and/or Tech Lead. Notably, I implemented
+
+* a minimalistic, multi-environment (browser or Tauri WebView) JSX React + Vite frontend.
+* a Dockerized cross-platform Desktop application for 
+---
+* a high-performance, zero-panic (~noexcept) Rust library for computation of properties of materials (elastic modules, thermal expansion, thermal conductivitiy, etc) in unidirectional composites and honeycomb structures. The library offered a C-compatible interface, allowing it to be reused in Rust and Python or nearly any other language.
