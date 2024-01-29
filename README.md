@@ -425,7 +425,7 @@ By that time, Kirill (my regular client) had another task for me. He wanted me t
 
 After that, I worked on several projects with [Sergey Vlasov](https://vk.com/grengreen) as a tech consultant and/or Tech Lead. Notably, I implemented
 
-
+**As the first batch of work...**
 
 * a Rust wrapper around a Python module with [FEM](https://en.wikipedia.org/wiki/Finite_element_method) logic.
 * a minimalistic, multi-environment (browser or Tauri WebView) JSX React + Vite frontend.
