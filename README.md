@@ -411,7 +411,7 @@ With massive layoffs in the tech sector and crypto winter, I found myself compet
 
 Luckily, thanks to my hard work, I had a track record of delivering a wide variety of high quality software quickly, so I was very competitive on the freelance market. I started landing conracts very soon, and the very first client (Kirill) became my regular.
 
-It happened on September September 24 and started with a simple proof-of-concept of a launcher for the game of Rust written in Rust programming language with Tauri cross-platform application framework. My client had a team of frontend developers. so he needed me only to write the code for the Core process of Tauri. More precisely, he wanted to launch Rust by calling into a DLL. And I implemented and tested the functionality in 1.5h (https://github.com/JohnScience/tauri-dll-example).
+It happened on September 24 and started with a simple proof-of-concept of a launcher for the game of Rust written in Rust programming language with Tauri cross-platform application framework. My client had a team of frontend developers. so he needed me only to write the code for the Core process of Tauri. More precisely, he wanted to launch Rust by calling into a DLL. And I implemented and tested the functionality in 1.5h (https://github.com/JohnScience/tauri-dll-example).
 
 ---
 
