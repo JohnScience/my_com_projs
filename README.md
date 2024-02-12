@@ -1,8 +1,22 @@
 # My commercial programming story
 
+## Table of Contents
+
+* [First commercial experience](#first-commercial-experience) - 2011-2013
+* [Early freelancing](#early-freelancing) - 2013-2018
+* [Mobile Legends: scaling from thousands to millions](#mobile-legends-scaling-from-thousands-to-millions) - 2018-2019
+* [The dark times after the head injury](#the-dark-times-after-the-head-injury) - January 2019 - April 2019
+* [The rise and fall of Mobile Legends Hub](#the-rise-and-fall-of-mobile-legends-hub) - April 2019 - August 2019
+* [Rising from the ashes: R&D, Rust, and full-time study](#rising-from-the-ashes-rd-rust-and-full-time-study) - 2019 - 2022
+* [Going low-level: cross-language interoperability and performance engineering](#going-low-level-cross-language-interoperability-and-performance-engineering) - 2022 - present
+
+## First commercial experience
+
 My programming journey started rather early, at the age of 10 (2009). And only two years later (yes, at the age of 12) I started applying my nascent programming skills and knowledge commercially. I lived with grandparents who had a pension that was comparatively high but [low in absolute numbers](https://www.statista.com/statistics/1093950/average-monthly-retirement-benefit-value-russia/), so I had to work part-time to enjoy [tarkhun](https://en.wikipedia.org/wiki/Tarkhuna_(drink)), [baikal](https://en.wikipedia.org/wiki/Baikal_(drink)), and pizza or simply even be able to buy water so that I could play soccer with my friends without suffering from thirst.
 
 De jure, [working even part-time in Russia is possible only at the age of 14](https://www.consultant.ru/document/cons_doc_LAW_34683/9627c87f117f9ccaaf55a73c9a614626c1e87ce0/), so I had to work on [Onionland](https://en.wiktionary.org/wiki/Onionland) forums via [Tor](https://en.wikipedia.org/wiki/Tor_(network)) to circumvent the legal barrier that I consider unfair up to this day. My tools at the time were [Cheat Engine](https://en.wikipedia.org/wiki/Cheat_Engine) with [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) scripts for [dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis), custom-patched [IDA Pro](https://en.wikipedia.org/wiki/Interactive_Disassembler) for [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis), and a [FLY-CODE Dr Web Unpacker](https://cdn-download.drweb.com/pub/drweb/esuite/13.0.0/documentation/drweb-13.0-esuite-user-manual-windows-en.pdf) for cracking then-state-of-the-art [Armadillo Software Protection System](https://www.google.com/search?q=Armadillo+Software+Protection+System). *I deliberately never wrote, distributed, or in any way participated in the development of any malware.*
+
+## Early freelancing
 
 In 2013, I created an account on no-longer-operational [фриланс.рф](фриланс.рф) where I started creating simple static [landing pages](https://en.wikipedia.org/wiki/Landing_page) with HTML, CSS, and a little bit of JavaScript (after approximately a half of a year of learning). Even at that point I did not have a GitHub or moreover GitLab account.
 
@@ -235,6 +249,8 @@ At this point,  I started readying for the ЕГЭ (Unified State Exams, similar 
 
 Even though I did relatively well in a new school, e.g. I had 95+ for Computer Science, I did not experience as much growth as I expected or desired. For instance, I did not do that great in English Language Arts (~60) and I could not get comprehensible feedback about my essays. I hardly could get anything more precise than "Your essays lacked flow". As a result, I had no single thing to meaningfully focus on at the new high school, so I switched my focus to search for a part-time or contract jobs in Software Development while I waited for the evaluation of my documents.
 
+## Mobile Legends: scaling from thousands to millions
+
 In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., LTD. Here is an excerpt from [my LinkedIn profile](https://www.linkedin.com/in/dmitrii-demenev-9713a5167/) that summarizes my experience there:
 
 > When I only started working there, I was placed in the Forum Development Dpt. My main responsibilities were to locate possible problems in the working website and suggest solutions for elimination of these problems. Since the success of Mobile Legends was unpredictably great, the small company (at that time, only around 20 employees) had to review their approaches and the code base on the run because the fan base rapidly grew in numbers. Having an expertise in V8 allowed me to locate problems and provide elaborate reports about the issues.
@@ -275,11 +291,14 @@ In the summer of 2018, I got remotely hired by SHANGHAI MOONTON TECHNOLOGY CO., 
 * Due to low gains of automation in the short term, produced a step-by-step documentation of a complex installation process for the built toolchain for Linux, Windows, MacOS, and MinGW using Markdown + Mermaid.
 * Manually rolled out the updates of the Halpo Discord bot-assistant using SSH, CentOS, and pm2.
 * In the first two weeks, identified and located i18n, CSS, and JS problems in the forum website, and suggested solutions for elimination these problems.
+
 </details>
 
 ---
 
-For almost 1.5 of a year after the incident I was unable to walk on my own and to talk without heavy stuttering. However, I persevered despite the difficulty.
+## The dark times after the head injury
+
+For almost 1.5 of a year after the incident I was unable to walk on my own and to talk without heavy stuttering. However, I persevered despite the difficulty. Further, I'll detail my journey to recovery and the projects I worked on during that time.
 
 Even though initially I was barely able even to help myself, four months after the incident (April of 2019) I started slowly but surely working on the programming project that would eventually turn first into a product, and then into a short-lived but still a company. However, it did not happen immediately.
 
@@ -296,9 +315,11 @@ After two months of work, in the July of 2019, I got contacted by my friend Се
 
 Together, we managed to meet the deadline, and I continued to work on the project that I had in mind.
 
----
+### The rise and fall of Mobile Legends Hub
 
-The idea of the project was to bridge content creators and companies in need of marketing campaigns for gamers.
+After helping out my friend Sergey Gonin, I was finally able to focus on the project that I had in mind.
+
+The idea of the project was to bridge content creators and companies that wanted to organize marketing campaigns for gamers.
 
 Based on what I learned from many streamers (mostly those of Mobile Legends),
 
@@ -341,13 +362,15 @@ With around 20,000 concurrent viewers, we got our first marketing campaigns and 
 
 Unfortunately, the API was not prepared for such a broad use and got whitelisted. And getting access to the code even for the purpose of improvement and even with demonstrable financial gains was non-negotiable for non-residents of Shanghai. The operation was quickly halted as soon as the last contract would end, leaving the company in a sizable net-profit.
 
----
+## Rising from the ashes: R&D, Rust, and full-time study
 
 In October of 2019, I was offered a part-time position in R&D (Rust) for a small startup DBChase founded by an MIT graduate, [Adil Mac](https://www.linkedin.com/in/adil-m-304bb23/). Details of the work there are protected by a [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement). I left the company in April 2020.
 
 ---
 
 In November of 2020, I started studying remotely at Athabasca University (at the time, the only university in Canada accredited for delivering fully remote university programs) because attending a university in person was still challenging and I needed a reduced load.
+
+## Going low-level: cross-language interoperability and performance engineering
 
 In November of 2022, I accepted a contract for [Repalab](https://repalab.ru/), a Russian-based startup building the software for analysis of images of lungs in [DICOM](https://en.wikipedia.org/wiki/DICOM) and [NIFTI-1](https://nifti.nimh.nih.gov/nifti-1/) formats.
 
@@ -401,7 +424,7 @@ By August of 2023, the product was complete and the maintenance has been passed 
 
 ---
 
-Rather quickly, I joined my friends at a startup called Group Labs and started creating a prototype for a cross-platform betting app (https://github.com/JohnScience/betting_app) that was meant to be the off-chain part of the software solution for transparent betting over NOSTR & Lighting protocols. Unfortunately, the client disappeared.
+Rather quickly, I joined my friends at a startup called Group Labs and started creating a prototype for a cross-platform betting app (<https://github.com/JohnScience/betting_app>) that was meant to be the off-chain part of the software solution for transparent betting over NOSTR & Lighting protocols. Unfortunately, the client disappeared.
 
 ---
  
