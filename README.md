@@ -304,7 +304,9 @@ Even though initially I was barely able even to help myself, four months after t
 
 After two months of work, in the July of 2019, I got contacted by my friend Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ) who was running low on time to meet the deadline. He requested my assistance, which I agreed to provide while warning about the situation.
 
-* An android app for a water delivery company in the city of Perm. Fellow-contractor: Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ).
+* An android app for a water delivery company in the city of Perm.
+
+Fellow-contractor: Сергей Гонин ( [VK](https://vk.com/sergeygonin) | [LinkedIn](https://www.linkedin.com/in/sergeygonin/) ).
 
 <details>
   <summary>Screenshot</summary>
