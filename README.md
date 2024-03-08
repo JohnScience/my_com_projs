@@ -422,7 +422,7 @@ For the data transfer, I decided to implement a custom protocol in order to full
 
 </details>
 
-By August of 2023, the product was complete and the maintenance has been passed delegated. Due to the war in Ukraine, the investments started targeting the technology for military applications, and I had no choice but to part my ways with the team.
+By August of 2023, the product was complete and the maintenance had been passed over. Due to the war in Ukraine, the investments started targeting the technology for military applications, and I had no choice but to part my ways with the team.
 
 ---
 
