@@ -471,4 +471,4 @@ In the meantime, I also overwatched the development of the C++ 20 application fo
 
 ---
 
-On February 11, I received a request from Kirill (my regular client) to eliminate the installation step of Tauri application. By February 29, the solution of the problem resulted in the development of <https://github.com/JohnScience/tauriless/>. However, to make up for the limitations of the Tauri-less approach, there was a need in a reflective loader for DLLs. By April 5, the solution of the problem resulted in the development of <https://github.com/JohnScience/reflective_pe_dll_loader/>.
+On February 11 (2024), I received a request from Kirill (my regular client) to eliminate the installation step of Tauri application. By February 29, the solution of the problem resulted in the development of <https://github.com/JohnScience/tauriless/>. However, to make up for the limitations of the Tauri-less approach, there was a need in a reflective loader for DLLs. By April 5, the solution of the problem resulted in the development of <https://github.com/JohnScience/reflective_pe_dll_loader/>.
