@@ -468,3 +468,7 @@ After that, I worked on several projects with [Sergey Vlasov](https://vk.com/gre
 ---
 
 In the meantime, I also overwatched the development of the C++ 20 application for viewing, construction, modification, and analysis of systems with arbitrary geometry and materials.
+
+---
+
+On February 11, I received a request from Kirill (my regular client) to eliminate the installation step of Tauri application. By February 29, the solution of the problem resulted in the development of <https://github.com/JohnScience/tauriless/>. However, to make up for the limitations of the Tauri-less approach, there was a need in a reflective loader for DLLs. By April 5, the solution of the problem resulted in the development of <https://github.com/JohnScience/reflective_pe_dll_loader/>.
