@@ -16,6 +16,14 @@ My programming journey started rather early, at the age of 10 (2009). And only t
 
 De jure, [working even part-time in Russia is possible only at the age of 14](https://www.consultant.ru/document/cons_doc_LAW_34683/9627c87f117f9ccaaf55a73c9a614626c1e87ce0/), so I had to work on [Onionland](https://en.wiktionary.org/wiki/Onionland) forums via [Tor](https://en.wikipedia.org/wiki/Tor_(network)) to circumvent the legal barrier that I consider unfair up to this day. My tools at the time were [Cheat Engine](https://en.wikipedia.org/wiki/Cheat_Engine) with [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) scripts for [dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis), custom-patched [IDA Pro](https://en.wikipedia.org/wiki/Interactive_Disassembler) for [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis), and a [FLY-CODE Dr Web Unpacker](https://cdn-download.drweb.com/pub/drweb/esuite/13.0.0/documentation/drweb-13.0-esuite-user-manual-windows-en.pdf) for cracking then-state-of-the-art [Armadillo Software Protection System](https://www.google.com/search?q=Armadillo+Software+Protection+System). *I deliberately never wrote, distributed, or in any way participated in the development of any malware.*
 
+<details>
+  <summary>Indirect proof</summary>
+
+  Not long ago, I discovered an old 512MB USB flash drive with my old documents for school. It preserved a book about Java by Shildt and Nouton that was installed by me in 2012.
+
+  ![indirect proof](https://i.imgur.com/568FTJi.png)
+</details>
+
 ## Early freelancing
 
 In 2013, I created an account on no-longer-operational [фриланс.рф](фриланс.рф) where I started creating simple static [landing pages](https://en.wikipedia.org/wiki/Landing_page) with HTML, CSS, and a little bit of JavaScript (after approximately a half of a year of learning). Even at that point I did not have a GitHub or moreover GitLab account.
