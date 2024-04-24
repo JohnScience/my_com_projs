@@ -19,7 +19,7 @@ De jure, [working even part-time in Russia is possible only at the age of 14](ht
 <details>
   <summary>Indirect proof</summary>
 
-  Not long ago, I discovered an old 512MB USB flash drive with my old documents for school. It preserved a book about Java by Shildt and Nouton that was installed by me in 2012.
+  Not long ago, I discovered an old 512MB USB flash drive with my old documents for school. It preserved a book about Java by Shildt and Nouton whose installation by me dates back to 2012.
 
   ![indirect proof](https://i.imgur.com/568FTJi.png)
 </details>
