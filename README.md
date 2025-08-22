@@ -480,3 +480,25 @@ In the meantime, I also overwatched the development of the C++ 20 application fo
 ---
 
 On February 11 (2024), I received a request from Kirill (my regular client) to eliminate the installation step of Tauri application. By February 29, the solution of the problem resulted in the development of <https://github.com/JohnScience/tauriless/>. However, to make up for the limitations of the Tauri-less approach, there was a need in a reflective loader for DLLs. By April 5, the solution of the problem resulted in the development of <https://github.com/JohnScience/reflective_pe_dll_loader/>.
+
+---
+
+In the April of 2024, I started working as a Backend Software Developer at a bootstrapped startup called Searchless ([searchless.ca](searchless.ca), which was an AI-powered interviewing platform. There, I was one of the first five developers.
+
+In July of 2025, Searchless has been named a Top 100 AI Startup in Canada by Scale AI. See <https://allinevent.ai/blogs/blog/2025-top-100>.
+
+Even though I was initially hired as a backend developer, due to the nature of working in a startup, I wore many hats: a Backend Developer, Frontend Developer, Tech Lead, Team Lead, Prompt Engineer, ML Engineer, Database Administrator, Manual QA Engineer, DevOps, and even System Analyst.
+
+At Searchless, I
+
+* developed the integration of our platform with [Lever](https://www.lever.co/) applicant tracking system (ATS) API,
+* developed the link-sharing feature with respect for data residency considerations (as required by, for example, GDPR),
+* developed an in-house document data extraction library, which was a thin wrapper around a combination of third-party libraries handling the tasks they excel at,
+* developed an in-house library for canonicalization of resumes in .docx, .doc, .txt, .pdf formats to [JSON resume standard](https://jsonresume.org/schema),
+* fully designed and implemented the resume analysis and scoring feature on the backend, on the frontend, and in the database,
+* implemented the basic [attribute-based access control mechanism](https://www.forestadmin.com/blog/access-control-mechanisms/) with multiple permissions sources with the thought of eventually extending it with [specification pattern](https://en.wikipedia.org/wiki/Specification_pattern),
+* implemented the typed URL-building module based on serde_urlencoded,
+* facilitated the transition from single-crate to [workspace](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html)-based Rust source code management,
+* ...
+
+TBD
