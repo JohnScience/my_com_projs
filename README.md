@@ -492,13 +492,20 @@ Even though I was initially hired as a backend developer, due to the nature of w
 At Searchless, I
 
 * developed the integration of our platform with [Lever](https://www.lever.co/) applicant tracking system (ATS) API,
+* developed the in-house [`ngrok`](https://ngrok.com/) library for local testing of webhooks via the Ngrok gateway,
 * developed the link-sharing feature with respect for data residency considerations (as required by, for example, GDPR),
 * developed an in-house document data extraction library, which was a thin wrapper around a combination of third-party libraries handling the tasks they excel at,
 * developed an in-house library for canonicalization of resumes in .docx, .doc, .txt, .pdf formats to [JSON resume standard](https://jsonresume.org/schema),
 * fully designed and implemented the resume analysis and scoring feature on the backend, on the frontend, and in the database,
 * implemented the basic [attribute-based access control mechanism](https://www.forestadmin.com/blog/access-control-mechanisms/) with multiple permissions sources with the thought of eventually extending it with [specification pattern](https://en.wikipedia.org/wiki/Specification_pattern),
-* implemented the typed URL-building module based on serde_urlencoded,
-* facilitated the transition from single-crate to [workspace](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html)-based Rust source code management,
-* ...
+* implemented the typed URL-building module based on [`serde_urlencoded`](https://crates.io/crates/serde_urlencoded),
+* implemented the first draft of typed email templating,
+* implemented the transition from single-crate to [workspace](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html)-based Rust source code management,
+* implemented the asynchronous finite state machine (FSM) handling the initialization and termination of the voice & video recording as well as duplex media delivery,
+* implemented the [tokio](https://docs.rs/tokio/latest/tokio/sync/mpsc/fn.channel.html)-style multi-producer single-consumer (MPSC) channels in TypeScript,
+* prepared the project-level [mdBook](https://rust-lang.github.io/mdBook/)-based documentation for onboarding new team members (with installation scripts),
+* helped onboarding the new team members,
+* conducted AI-assisted code reviews using the GitHub Copilot code reviewer,
+* acted as an expert in Rust, resolving difficulties in complex cases with Rust programming language,
 
 TBD
