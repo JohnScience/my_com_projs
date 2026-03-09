@@ -456,7 +456,7 @@ By that time, Kirill (my regular client) had another task for me. He wanted me t
 
 ---
 
-After that, I worked on several projects with [Sergey Vlasov](https://vk.com/grengreen) as a tech consultant and/or Tech Lead. Notably, I implemented
+After that, I worked on several projects with [Sergey Vlasov](https://vk.com/grengreen) @ Динамика Роста ("Growth Dynamics") as a tech consultant and/or Tech Lead. Notably, I implemented
 
 **As the first batch of work...**
 
